@@ -2,9 +2,12 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+*.tar
+qtest
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
